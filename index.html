@@ -879,7 +879,7 @@
       <!-- Right Form -->
       <div class="col-lg-6">
         <h5 class="mb-4">Send us a message</h5>
-        <form name="ContactForm" method="POST" data-netlify="true" id="contact-form" class="needs-validation" netlify>
+        <form name="ContactForm" method="POST" data-netlify="true" id="contact-form" class="needs-validation" novalidate>
             <input type="hidden" name="form-name" value="ContactForm" />
 
             <div class="form-group mb-4">
@@ -900,10 +900,6 @@
             <button type="submit" class="btn btn-outline-light px-4 ogency-btn">Send</button>
             </form>
 
-            <!-- ✅ Message box -->
-            <div id="form-success" style="display: none; color: #0f0; margin-top: 20px;">
-            Thank you! Your message was sent successfully.
-            </div>
 
 
                 </div>
@@ -1052,24 +1048,3 @@
 </html>
 
 
-<script>
-  const form = document.getElementById("contact-form");
-  const successMessage = document.getElementById("form-success");
-
-  form.addEventListener("submit", function (event) {
-    event.preventDefault(); // stop normal form behavior
-
-    const formData = new FormData(form);
-
-    fetch("/", {
-      method: "POST",
-      headers: { "Content-Type": "application/x-www-form-urlencoded" },
-      body: new URLSearchParams(formData).toString(),
-    })
-    .then(() => {
-      form.reset(); // clear form
-      successMessage.style.display = "block"; // show success
-    })
-    .catch((error) => alert("Form submission failed: " + error));
-  });
-</script>
