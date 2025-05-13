@@ -879,32 +879,40 @@
       <!-- Right Form -->
       <div class="col-lg-6">
         <h5 class="mb-4">Send us a message</h5>
-        <form name="ContactForm" method="POST" data-netlify="true" id="contact-form" class="needs-validation" novalidate>
-          <input type="hidden" name="form-name" value="ContactForm" />
+        <form name="ContactForm" method="POST" data-netlify="true" id="contact-form" class="needs-validation" netlify>
+            <input type="hidden" name="form-name" value="ContactForm" />
 
-          <div class="form-group mb-4">
-            <label for="name" class="form-label">Name</label>
-            <input type="text" name="name" id="name" class="form-control bg-transparent border-0 border-bottom text-white" placeholder="Enter your name" required>
-          </div>
+            <div class="form-group mb-4">
+                <label for="name" class="form-label">Name</label>
+                <input type="text" name="name" id="name" class="form-control bg-transparent border-0 border-bottom text-white" placeholder="Enter your name" required>
+            </div>
 
-         <div class="form-group mb-4">
-            <label for="phone" class="form-label">Phone</label>
-            <input type="tel" name="phone" id="phone" class="form-control bg-transparent border-0 border-bottom text-white" placeholder="Enter your phone number" required>
-         </div>
+            <div class="form-group mb-4">
+                <label for="phone" class="form-label">Phone</label>
+                <input type="tel" name="phone" id="phone" class="form-control bg-transparent border-0 border-bottom text-white" placeholder="Enter your phone number" required>
+            </div>
 
-          <div class="form-group mb-4">
-            <label for="email" class="form-label">Email</label>
-            <input type="email" name="email" id="email" class="form-control bg-transparent border-0 border-bottom text-white" placeholder="Enter your email" required>
-          </div>
+            <div class="form-group mb-4">
+                <label for="email" class="form-label">Email</label>
+                <input type="email" name="email" id="email" class="form-control bg-transparent border-0 border-bottom text-white" placeholder="Enter your email" required>
+            </div>
 
-          
+            <button type="submit" class="btn btn-outline-light px-4 ogency-btn">Send</button>
+            </form>
 
-          <button type="submit" class="btn btn-outline-light px-4 ogency-btn">Send</button>
-        </form>
-      </div>
+            <!-- ✅ Message box -->
+            <div id="form-success" style="display: none; color: #0f0; margin-top: 20px;">
+            Thank you! Your message was sent successfully.
+            </div>
+
+
+                </div>
     </div>
   </div>
         </section>
+
+
+     
 
 
         <!-- Call To Action End -->
@@ -1042,3 +1050,26 @@
 </body>
 
 </html>
+
+
+<script>
+  const form = document.getElementById("contact-form");
+  const successMessage = document.getElementById("form-success");
+
+  form.addEventListener("submit", function (event) {
+    event.preventDefault(); // stop normal form behavior
+
+    const formData = new FormData(form);
+
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: new URLSearchParams(formData).toString(),
+    })
+    .then(() => {
+      form.reset(); // clear form
+      successMessage.style.display = "block"; // show success
+    })
+    .catch((error) => alert("Form submission failed: " + error));
+  });
+</script>
