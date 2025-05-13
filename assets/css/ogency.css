@@ -11611,3 +11611,9 @@ body.boxed-wrapper .main-slider__one-item__content-curved-circle-box {
 body.boxed-wrapper .main-slider__one-item__shape-1 {
   display: none;
 }
+
+
+/* footerr ul */
+.footer-ul li a,.copyright{
+  color: var(--ogency-white) !important;
+}
