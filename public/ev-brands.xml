@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<evBrands>
+  <brand name="Aito">
+    <model name="M9" url="https://evsuae.com/warranty-packages/Denza-LiAuto-AITO-2025.pdf" />
+  </brand>
+  <brand name="Audi">
+    <model name="e-tron" url="https://evsuae.com/warranty-packages/EVS-Warranty-LiXiang-Leopard8-BYD-Mercedes-Benz-Porsche-Audi-eTron.pdf" />
+  </brand>
+  <brand name="Avatr">
+    <model name="6" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+    <model name="7" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+    <model name="11" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+    <model name="12" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+  </brand>
+  <brand name="Byd">
+    <model name="Han EV" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="Seal" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="Seal 06 EV" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="Qin Plus EV" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="Destroyer 05" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="Leopard 5" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+    <model name="Leopard 3" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+    <model name="Leopard 8" url="https://evsuae.com/warranty-packages/Denza-LiAuto-AITO-2025.pdf" />
+  </brand>
+  <brand name="Denza">
+    <model name=" N9" url="https://evsuae.com/warranty-packages/Denza-LiAuto-AITO-2025.pdf" />
+  </brand>
+  <brand name="Honda">
+    <model name="e:NS1" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="e:NP1" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+  </brand>
+  <brand name="Jetour">
+    <model name="Dashing PHEV" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+    <model name="T2 Hybrid" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+  </brand>
+  <brand name="LiXiang">
+    <model name="L7" url="https://evsuae.com/warranty-packages/EVS-Warranty-LiXiang-Leopard8-BYD-Mercedes-Benz-Porsche-Audi-eTron.pdf" />
+    <model name="L9" url="https://evsuae.com/warranty-packages/EVS-Warranty-LiXiang-Leopard8-BYD-Mercedes-Benz-Porsche-Audi-eTron.pdf" />
+    <model name="L8" url="https://evsuae.com/warranty-packages/EVS-Warranty-LiXiang-Leopard8-BYD-Mercedes-Benz-Porsche-Audi-eTron.pdf" />
+    <model name="MEGA" url="https://evsuae.com/warranty-packages/EVS-Warranty-LiXiang-Leopard8-BYD-Mercedes-Benz-Porsche-Audi-eTron.pdf" />
+  </brand>
+  <brand name="Lynk-and-Co">
+    <model name="900" url="https://evsuae.com/warranty-packages/Denza-LiAuto-AITO-2025.pdf" />
+  </brand>
+  <brand name="Mercedes-Benz">
+    <model name="EQE" url="https://evsuae.com/warranty-packages/EVS-Warranty-LiXiang-Leopard8-BYD-Mercedes-Benz-Porsche-Audi-eTron.pdf" />
+    <model name="EQS" url="https://evsuae.com/warranty-packages/EVS-Warranty-LiXiang-Leopard8-BYD-Mercedes-Benz-Porsche-Audi-eTron.pdf" />
+    <model name="EQA" url="https://evsuae.com/warranty-packages/EVS-Warranty-LiXiang-Leopard8-BYD-Mercedes-Benz-Porsche-Audi-eTron.pdf" />
+    <model name="EQB" url="https://evsuae.com/warranty-packages/EVS-Warranty-LiXiang-Leopard8-BYD-Mercedes-Benz-Porsche-Audi-eTron.pdf" />
+    <model name="EQC" url="https://evsuae.com/warranty-packages/EVS-Warranty-LiXiang-Leopard8-BYD-Mercedes-Benz-Porsche-Audi-eTron.pdf" />
+  </brand>
+  <brand name="NIO">
+    <model name="ET5" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+    <model name="ET7" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+    <model name="ES6" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+    <model name="ES8" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+    <model name="EC6" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+  </brand>
+  <brand name="Nissan">
+    <model name="Ariya" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+  </brand>
+  <brand name="Porsche">
+    <model name="Taycan" url="https://evsuae.com/warranty-packages/EVS-Warranty-LiXiang-Leopard8-BYD-Mercedes-Benz-Porsche-Audi-eTron.pdf" />
+  </brand>
+  <brand name="Rivian">
+    <model name="R1T" url="https://evsuae.com/warranty-packages/EVS-Warranty-Yangwang-Cybertruck-HTEV-Rivian-Xiaomi-SU7.pdf" />
+    <model name="R1S" url="https://evsuae.com/warranty-packages/EVS-Warranty-Yangwang-Cybertruck-HTEV-Rivian-Xiaomi-SU7.pdf" />
+  </brand>
+  <brand name="Rox">
+    <model name="01" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+  </brand>
+  <brand name="Tesla">
+    <model name="Cybertruck" url="https://evsuae.com/warranty-packages/EVS-Warranty-Yangwang-Cybertruck-HTEV-Rivian-Xiaomi-SU7.pdf" />
+    <model name="Model 3" url="https://evsuae.com/warranty-packages/EVS-Warranty-Tesla-Model-3-Model-Y.pdf" />
+    <model name="Model S" url="https://evsuae.com/warranty-packages/EVS-Warranty-Tesla-Model-S-Model-X.pdf" />
+    <model name="Model X" url="https://evsuae.com/warranty-packages/EVS-Warranty-Tesla-Model-S-Model-X.pdf" />
+    <model name="Model Y" url="https://evsuae.com/warranty-packages/EVS-Warranty-Tesla-Model-3-Model-Y.pdf" />
+  </brand>
+  <brand name="Toyota">
+    <model name="bZ4X" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+  </brand>
+  <brand name="Volkswagen">
+    <model name="ID.3" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="ID.4" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="ID.5" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="ID.6" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+  </brand>
+  <brand name="Voyah">
+    <model name="Free" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="Dream" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="Passion" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+  </brand>
+  <brand name="XPeng">
+    <model name="P7" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="P5" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="G9" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+    <model name="G3i" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+  </brand>
+  <brand name="Xiaomi">
+    <model name="SU7" url="https://evsuae.com/warranty-packages/Denza-LiAuto-AITO-2025.pdf" />
+    <model name="SU7 Ultra" url="https://evsuae.com/warranty-packages/EVS-Warranty-Yangwang-Cybertruck-HTEV-Rivian-Xiaomi-SU7.pdf" />
+    <model name="YU7" url="https://evsuae.com/warranty-packages/Denza-LiAuto-AITO-2025.pdf" />
+  </brand>
+  <brand name="Yangwang">
+    <model name="U8" url="https://evsuae.com/warranty-packages/EVS-Warranty-Yangwang-Cybertruck-HTEV-Rivian-Xiaomi-SU7.pdf" />
+  </brand>
+  <brand name="Zeekr">
+    <model name="1" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+    <model name="7" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+    <model name="X" url="https://evsuae.com/warranty-packages/EVS-Warranty-Leopard5-BYD-Jetour-Zeekr-Avatr-NIO-Mfox-Xiaomi.pdf" />
+  </brand>
+  <brand name="iCar">
+    <model name="3" url="https://evsuae.com/warranty-packages/EVS-Warranty-Volkswagen-BYD-Honda-Toyota-Nissan-Hyundai-XPeng-iCar-Voyah.pdf" />
+  </brand>
+</evBrands>
