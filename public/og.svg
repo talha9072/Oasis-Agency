@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="40%" r="75%">
+      <stop offset="0%" stop-color="#3E1AFF"/>
+      <stop offset="50%" stop-color="#120B2A"/>
+      <stop offset="100%" stop-color="#05050A"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g fill="#EDEBFF" font-family="Inter, system-ui, sans-serif">
+    <text x="90" y="250" font-size="64" font-weight="700">Not your average</text>
+    <text x="90" y="325" font-size="64" font-weight="700">trading club.</text>
+    <text x="90" y="405" font-size="28" opacity="0.8">Trade setups • Algorithms • Copy trading • Market insights</text>
+  </g>
+</svg>
